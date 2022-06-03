@@ -4,6 +4,7 @@
 * **E-mail:** alexandrshepelev1337@gmail.com
 * **Telegram:** @Nazteck
 * **GitHub:** https://github.com/Naztex
+* **Discord:** Nazteck#4778
 ## About me
 Let me introduce myself. My name is Alexandr Shepelev. I study Web Development because this occupation provides endless possibilities for professional growth.
 I am very ambitious and will try with all my might and main to make a successful career. In my spare time I read books or play computer games.
