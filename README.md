@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Naztex.github.io/rsschool-cv/cv
+https://Naztex.github.io/rsschool-cv/
