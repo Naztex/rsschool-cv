@@ -1,1 +1,18 @@
 /* Styles */
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+.page {
+	background-color: #D1C5AB;
+}
+/* container */
+.container {
+	display: flex;
+}

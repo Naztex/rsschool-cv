@@ -1,17 +1,18 @@
-# Alexandr Shepelev
+# Alexander Shepelev
 ## Contacts
 * **Phone:** +7 961 697 07 33
 * **E-mail:** alexandrshepelev1337@gmail.com
 * **Telegram:** @Nazteck
 * **GitHub:** https://github.com/Naztex
-* **Discord:** Nazteck#4778
+* **Discord:** Nazteck#0810
+* **VK** https://vk.com/xxxxxnonamexxxxx
 ## About me
-Let me introduce myself. My name is Alexandr Shepelev. I study Web Development because this occupation provides endless possibilities for professional growth.
-I am very ambitious and will try with all my might and main to make a successful career. In my spare time I read books or play computer games.
+Let me introduce myself. My name is Alexander Shepelev. I like to study and learn something new. I study Web Development because this occupation provides endless possibilities for professional growth. I lead active and healhy lifestyle. In my spare time I read books, do physical education, listen to music and play computer games. In the future I will try with all my might and main to make a successful career.
 ## Skills
-* HTML5, CSS
+* HTML/HTML5, CSS3/SCSS, BEM
 * JavaScript basics
-* VS Code, Figma
+* VS Code
+* Figma, Adobe Photoshop
 * GitHub
 ## Code Example
 ```
