@@ -134,6 +134,24 @@
 		background-color: #5A5656;
 		z-index: 100;
 	}
+
+	.pos {
+		position: fixed;
+		top: 0;
+	}
+	
+	.active {
+		position: fixed;
+		top: 4rem;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		background-color: #5A5656;
+		width: 100%;
+		height: 100vh;
+		padding-left: 2rem;
+		z-index: 1000;
+	}
 }
 
 .blocked {
@@ -163,23 +181,6 @@
 	max-height: 4rem;
 }
 
-.pos {
-	position: fixed;
-	top: 0;
-}
-
-.active {
-	position: fixed;
-	top: 4rem;
-	display: flex;
-	flex-direction: column;
-	align-items: flex-start;
-	background-color: #5A5656;
-	width: 100%;
-	height: 100vh;
-	padding-left: 2rem;
-	z-index: 1000;
-}
 
 /* header */
 .header {
