@@ -130,7 +130,7 @@ html {
  */
 
 a:focus {
-    outline: thin dotted;
+    outline: none;
 }
 
 /**
@@ -365,3 +365,11 @@ textarea {
     padding: 0.2em 0;
 }
 
+/* decoration a */
+a,
+a:focus,
+a:hover,
+a:active {
+	text-decoration: none;
+	border: none;
+}
