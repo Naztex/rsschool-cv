@@ -152,11 +152,11 @@
 		padding-left: 2rem;
 		z-index: 1000;
 	}
-}
 
-.blocked {
-	overflow: hidden;
- }
+	.blocked {
+		overflow: hidden;
+	 }
+}
 
 /* grid page */
 .page-body {
