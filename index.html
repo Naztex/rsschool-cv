@@ -1,12 +1,143 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="page" lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&display=swap" rel="stylesheet">
+	<link rel="icon" href="/assets/img/faviconpage.ico">
+	<link rel="stylesheet" href="/css/reset.css">
+	<link rel="stylesheet" href="/css/style.css">
+	<title>Alexander Shepelev CV</title>
 </head>
-<body>
-	<img src="/img/avatar.png" alt="">
+<body class="page-body">
+	<header class="header page-body__header">
+		<button class="burg">
+			<img src="/assets/img/menu.png" alt="burger" class="burg__img">
+		</button>
+		<nav class="nav">
+			<ul class="list-items nav__menu">
+				<li class="list-items__item"><a href="#contacts" class="link list-items__link">Contacts</a></li>
+				<li class="list-items__item"><a href="#courses" class="link list-items__link">Courses</a></li>
+				<li class="list-items__item"><a href="#about" class="link list-items__link">About me</a></li>
+				<li class="list-items__item"><a href="#skills" class="link list-items__link">Skills</a></li>
+				<li class="list-items__item"><a href="#code" class="link list-items__link">Code Example</a></li>
+				<li class="list-items__item"><a href="#language" class="link list-items__link">Languages</a></li>
+				<li class="list-items__item"><a href="#begin" class="link list-items__link">Up</a></li>
+			</ul>
+		</nav>
+	</header>
+	<aside id="begin" class="sidebar">
+		<h2 class="title main__title title_hide-sidebar">Front-End developer</h2>
+		<img class="sidebar__img" src="/assets/img/avatar.png" alt="avatar">
+		<section class="section sidebar__section">
+			<h2 class="title section__title">
+				Contacts
+			</h2>
+			<ul id="contacts" class="list-items section__contacts">
+				<li class="list-items__item list-items__item_display list-items__item_align">
+					<img src="/assets/svg/email-svgrepo-com.svg" alt="email" class="list-items__icon">
+					<p class="list-items__contact list-items__contact_email">
+						nazteck@yandex.ru
+					</p>
+				</li>
+				<li class="list-items__item list-items__item_display list-items__item_align">
+					<img src="/assets/svg/telegram-svgrepo-com.svg" alt="telegram" class="list-items__icon">
+					<p class="list-items__contact list-items__contact_telegram">
+						@Nazteck
+					</p>
+				</li>
+				<li class="list-items__item list-items__item_display list-items__item_align">
+					<img src="/assets/svg/discord-fill-svgrepo-com.svg" alt="discord" class="list-items__icon">
+					<p class="list-items__contact list-items__contact_discord">
+						Nazteck#0810
+					</p>
+				</li>
+				<li class="list-items__item list-items__item_display list-items__item_align">
+					<img src="/assets/svg/vk-svgrepo-com.svg" alt="vkontakte" class="list-items__icon">
+					<p class="list-items__contact list-items__contact_vk">
+						https://vk.com/xxxxxnonamexxxxx
+					</p>
+				</li>
+			</ul>
+		</section>
+		<section class="section sidebar__section">
+			<h2 class="title section__title">
+				Education
+			</h2>
+			<ul id="courses" class="list-items section__contacts">
+				<li class="list-items__item list-items__item_display">
+					<p class="list-items__row list-items__row_date ">2005 - 2009</p>
+					<p class="list-items__row">Volgograd Technological College</p>
+					<p class="list-items__row">Computing and automated systems</p>
+				</li>
+				<li class="list-items__item list-items__item_display">
+					<p class="list-items__row list-items__row_date ">2012 - 2017</p>
+					<p class="list-items__row">Volgograd State University of Architecture and Civil Engineering</p>
+					<p class="list-items__row">Industrial and civil construction</p>
+				</li>
+				<li class="list-items__item list-items__item_display">
+					<p class="list-items__row list-items__row_date ">2021</p>
+					<p class="list-items__row">HTML, CSS</p>
+					<p class="list-items__row"><a class="link link_sidebar" href="https://www.freecodecamp.org/Nazteck">freecodecamp</a></p>
+				</li>
+				<li class="list-items__item list-items__item_display">
+					<p class="list-items__row list-items__row_date ">2021</p>
+					<p class="list-items__row">JavaScript</p>
+					<a class="link link_sidebar" href="https://learn.javascript.ru/">learn.javascript</a>
+					<p class="list-items__row">(in progress)</p>
+				</li>
+				<li class="list-items__item list-items__item_display">
+					<p class="list-items__row list-items__row_date ">2022</p>
+					<p class="list-items__row">RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</p>
+					<p class="list-items__row"></p>
+				</li>
+			</ul>
+		</section>
+	</aside>
+	<main class="main page-body__main">
+		<h1 class="title main__title title_hide-main">Front-End developer</h1>
+		<section id="about" class="main__section">
+			<h2 class="title main__section-title">About me</h2>
+			<p class="main__description">
+				Let me introduce myself. My name is Alexander Shepelev. I like to study and learn something new. I study Web Development because this occupation provides endless possibilities for professional growth. I lead active and healhy lifestyle. In my spare time I read books, do physical education, listen to music and play computer games. In the future I will try with all my might and main to make a successful career.
+			</p>
+		</section>
+		<section id="skills" class="main__section">
+			<h2 class="title main__section-title">Skills</h2>
+			<ul class="list-items main__skills">
+				<li class="list-items__item list-items__skill">HTML/HTML5, CSS3/SCSS, BEM</li>
+				<li class="list-items__item list-items__skill">JavaScript basics</li>
+				<li class="list-items__item list-items__skill">VS Code</li>
+				<li class="list-items__item list-items__skill">Figma, Adobe Photoshop</li>
+				<li class="list-items__item list-items__skill">GitHub</li>
+			</ul>
+		</section>
+		<section id="code" class="main__section">
+			<h2 class="title main__section-title">Code Example</h2>
+			<pre class="main__pre">
+				<code class="main__code">
+					function multiply (a, b) {
+
+						return a * b;
+
+						};
+				</code>
+			</pre>
+		</section>
+		<section id="language" class="main__section">
+			<h2 class="title main__section-title">Languages</h2>
+			<p class="main__description-lang">Russian: Native</p>
+			<p class="main__description-lang">English: A1 <a href="https://www.efset.org/cert/cuW4WD" target="_blank" class="link main__link"><img src="/assets/svg/efset-logo_black.svg" alt="efset" class="main__icon"></a></p>
+		</section>
+	</main>
+	<footer class="footer page-body__footer">
+		<a href="https://github.com/Naztex" target="_blank" class="link"><img src="/assets/svg/github-svgrepo-com.svg" alt="github" class="link__img"></a>
+		<p class="footer__date">2022</p>
+		<a href="https://rs.school/" target="_blank" class="link"><img src="/assets/svg/rs_school_js.svg" alt="rsschool" class="link__img"></a>
+	</footer>
+	<script src="/script.js"></script>
 </body>
 </html>
