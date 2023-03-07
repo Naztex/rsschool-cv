@@ -21,7 +21,7 @@ function square (a) {
 ```
 ## My projects
 * https://rolling-scopes-school.github.io/naztex-JSFEPRESCHOOL2022Q2/travel/
-* 
+* https://rolling-scopes-school.github.io/naztex-JSFEPRESCHOOL2022Q2/momentum/
 ## Courses
 * Volgograd Technological College. Computing and automated systems
 * Volgograd State University of Architecture and Civil Engineering. Industrial and civil construction
