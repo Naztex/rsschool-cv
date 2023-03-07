@@ -19,6 +19,8 @@ function square (a) {
   return a * a;   
 }
 ```
+## My projects
+
 ## Courses
 * HTML, CSS https://www.freecodecamp.org/Nazteck
 * JavaScript https://learn.javascript.ru/ (in progress)
