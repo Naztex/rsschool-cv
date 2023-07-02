@@ -24,6 +24,7 @@ function square (a) {
 * https://rolling-scopes-school.github.io/naztex-JSFEPRESCHOOL2022Q2/momentum/
 * https://rolling-scopes-school.github.io/naztex-JSFE2023Q1/shelter/index.html
 * https://naztex.github.io/clean-code-s1e1/
+* https://naztex.github.io/cssBayan/
 
 ## Courses
 * Volgograd Technological College. Computing and automated systems
