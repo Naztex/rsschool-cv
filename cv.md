@@ -22,6 +22,7 @@ function square (a) {
 ## My projects
 * https://rolling-scopes-school.github.io/naztex-JSFEPRESCHOOL2022Q2/travel/
 * https://rolling-scopes-school.github.io/naztex-JSFEPRESCHOOL2022Q2/momentum/
+* https://rolling-scopes-school.github.io/naztex-JSFE2023Q1/shelter/index.html
 
 ## Courses
 * Volgograd Technological College. Computing and automated systems
